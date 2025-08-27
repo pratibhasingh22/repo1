@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
-    float x1,x2,y1,y2,y3,x3;
-    float area;
-    //taking input ofthe coordinates
+    int x1,x2,y1,y2,y3,x3;
+    int area;
+    //taking input of the coordinates
     printf("enter coordinates of first point");
     scanf("%f %f",&x1,&y1);
     printf("enter coordinates of second point");
@@ -22,4 +22,5 @@ int main(){
 
 
 }
+
 
